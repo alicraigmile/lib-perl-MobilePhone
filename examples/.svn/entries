@@ -1,0 +1,40 @@
+8
+
+dir
+111
+svn+ssh://alic@wombat.qmd.xgusties.com/home/svn/MobilePhone/trunk/examples
+svn+ssh://alic@wombat.qmd.xgusties.com/home/svn
+
+
+
+2008-02-16T03:55:08.406585Z
+106
+alic
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+51b39816-5fe9-4d68-a918-df3b07bd75e6
+
+mcc.pl
+file
+
+
+
+
+2008-02-17T12:11:19.781250Z
+808feace5fff14c4ac26a33548a81899
+2008-02-16T03:55:08.406585Z
+106
+alic
+

@@ -1,0 +1,55 @@
+8
+
+dir
+111
+svn+ssh://alic@wombat.qmd.xgusties.com/home/svn/MobilePhone/trunk/lib
+svn+ssh://alic@wombat.qmd.xgusties.com/home/svn
+
+
+
+2008-02-16T03:55:08.406585Z
+106
+alic
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+51b39816-5fe9-4d68-a918-df3b07bd75e6
+
+MobilePhone
+dir
+
+zz.txct
+file
+
+
+
+
+2008-02-17T12:11:19.343750Z
+6485cfe6d528c980343a2326fb9fe8ac
+2008-02-16T03:55:08.406585Z
+106
+alic
+
+MobilePhone.pm
+file
+
+
+
+
+2008-02-17T12:11:19.359375Z
+a11722a9f36d7f2a2e5d13a5291d8390
+2008-02-16T03:55:08.406585Z
+106
+alic
+
